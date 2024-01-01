@@ -23,6 +23,10 @@ body {
     .logo {
         width: 75px;
     }
+
+    img {
+        width: auto;
+    }
 }
 
 p {
